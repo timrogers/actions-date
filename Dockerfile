@@ -1,2 +1,2 @@
-FROM busybox:1
+FROM ubuntu:kinetic
 CMD ["date"]
